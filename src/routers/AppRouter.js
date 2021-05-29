@@ -14,7 +14,7 @@ export const AppRouter = () => {
     const { user } = useContext(AuthContext);
 
     return (
-        <Router basename="/...">
+        <Router basename="/heroes-app">
             <Switch>
                 <PublicRoute exact path="/login" component={LoginScreen} isAuthenticated={user.logged} />
 
