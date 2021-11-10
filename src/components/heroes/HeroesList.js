@@ -7,7 +7,7 @@ export const HeroesList = ({ publisher }) => {
     const heroes = useMemo(() => getHeroesByPublisher(publisher), [publisher]);
 
     return (
-        <div className="card-columns animate__animated animate__fadeIn">
+        <div className="card-columns animate__animated animate__fadeIn container mb-5">
             {heroes.map(hero => (
                 <HeroCard key={hero.id}
                     {...hero}

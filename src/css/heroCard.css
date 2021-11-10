@@ -8,7 +8,7 @@
   position: relative;
   margin: 10px auto;
   cursor: pointer;
-  display: inline-block; 
+  display: inline-block;
 }
 
 .my-card img {
@@ -43,11 +43,7 @@
   bottom: 0px;
   left: 0px;
   right: 0px;
-  background: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.4) 50%,
-    rgba(255, 255, 0, 0)
-  );
+  background: linear-gradient( 0deg, rgba(0, 0, 0, 0.4) 50%, rgba(255, 255, 0, 0));
   color: #fff;
   padding: 50px 0px 40px 0px;
   transition: all 0.15s linear;
@@ -79,4 +75,16 @@
 
 .my-card img:hover {
   transform: scale(1.01);
+}
+
+.footer {
+  background-color: #023047;;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-family: monospace;
 }

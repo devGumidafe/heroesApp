@@ -25,7 +25,7 @@ export const LoginScreen = ({ history }) => {
             <div className="col-sm-6">
                 <div className="card">
                     <div className="card-body">
-                        <h5 className="card-title text-center mb-3">Login HeroesApp</h5>
+                        <h5 className="card-title text-center mb-3">Entrar a HeroesApp</h5>
                         <button className="btn btn-primary w-100" onClick={handleLogin}>Login</button>
                     </div>
                 </div>

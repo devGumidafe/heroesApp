@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../../css/heroCard.css';
 import { heroImages } from '../../helpers/heroImages';
 
 export const HeroCard = ({
