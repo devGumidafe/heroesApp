@@ -1,6 +1,6 @@
 {
   "name": "heroes-app",
-  "homepage": "http://devGumidafe.github.io/heroesApp",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
