@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/heroesApp/static/css/main.8fa8ec18.chunk.css",
-    "main.js": "/heroesApp/static/js/main.aa45a884.chunk.js",
-    "main.js.map": "/heroesApp/static/js/main.aa45a884.chunk.js.map",
+    "main.js": "/heroesApp/static/js/main.9eafe8fe.chunk.js",
+    "main.js.map": "/heroesApp/static/js/main.9eafe8fe.chunk.js.map",
     "runtime-main.js": "/heroesApp/static/js/runtime-main.7fde4e44.js",
     "runtime-main.js.map": "/heroesApp/static/js/runtime-main.7fde4e44.js.map",
-    "static/js/2.6edcc1bd.chunk.js": "/heroesApp/static/js/2.6edcc1bd.chunk.js",
-    "static/js/2.6edcc1bd.chunk.js.map": "/heroesApp/static/js/2.6edcc1bd.chunk.js.map",
+    "static/js/2.2e0ed2bd.chunk.js": "/heroesApp/static/js/2.2e0ed2bd.chunk.js",
+    "static/js/2.2e0ed2bd.chunk.js.map": "/heroesApp/static/js/2.2e0ed2bd.chunk.js.map",
     "index.html": "/heroesApp/index.html",
     "static/css/main.8fa8ec18.chunk.css.map": "/heroesApp/static/css/main.8fa8ec18.chunk.css.map",
-    "static/js/2.6edcc1bd.chunk.js.LICENSE.txt": "/heroesApp/static/js/2.6edcc1bd.chunk.js.LICENSE.txt",
+    "static/js/2.2e0ed2bd.chunk.js.LICENSE.txt": "/heroesApp/static/js/2.2e0ed2bd.chunk.js.LICENSE.txt",
     "static/media/dc-arrow.jpg": "/heroesApp/static/media/dc-arrow.acdd259d.jpg",
     "static/media/dc-batman.jpg": "/heroesApp/static/media/dc-batman.a77f3024.jpg",
     "static/media/dc-black.jpg": "/heroesApp/static/media/dc-black.7197a387.jpg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fde4e44.js",
-    "static/js/2.6edcc1bd.chunk.js",
+    "static/js/2.2e0ed2bd.chunk.js",
     "static/css/main.8fa8ec18.chunk.css",
-    "static/js/main.aa45a884.chunk.js"
+    "static/js/main.9eafe8fe.chunk.js"
   ]
 }
